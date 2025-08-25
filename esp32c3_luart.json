@@ -28,7 +28,7 @@
     "arduino",
     "espidf"
   ],
-  "name": "Espressif ESP32-C3-DevKitM-1",
+  "name": "Espressif ESP32-C3 LUATOS",
   "upload": {
     "flash_size": "4MB",
     "maximum_ram_size": 327680,
